@@ -1,0 +1,6 @@
+# py specific
+.ipynb_checkpoints
+__pycache__
+
+# data files
+data/
