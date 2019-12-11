@@ -12,6 +12,7 @@ Class | Title | Description
 :-----| :-----------| :-------------------
 class1 | Introduction to Python | This is not a full python tutorial. This covers things that are essential for the class purpose.
 class2 | Map Reduce Algorithm | The implementation of Map-Reduce algorithm as seen in [NYU Teaching](https://nyu-cds.github.io/python-bigdata/).
+class3 | Parallelism in Computer Science | Concurrency, parallelism, threading vs multiprocessing, etc.
 
 ## Questions
 
